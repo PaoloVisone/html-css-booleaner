@@ -15,8 +15,8 @@ header {
 /* Logo */
 
 #logo {
-    width: 150px;
-    margin-top: 130px;
+    width: 300px;
+    margin-top: 100px;
 }
 
 /* Intestazione */
@@ -41,32 +41,81 @@ a {
     margin-top: 0;
 }
 
+
 /* Informazioni */
 
 #info {
     margin-top: 0;
+    font-size: 20px;
 }
 
-/* Colore Del testo 1 e 2 */
+/* Testo e colore 1 e 2 */
+
+.text-col {
+    font-size: 25px;
+}
 
 .colorText {
     background-color: yellow;
+}
+
+/* Lista */
+
+li {
+    font-size: 25px;
 }
 
 /* Table and color fix */
 
 table {
     border-collapse: collapse;
+    font-size: 25px;
 }
 
 td {
     width: 30%;
 }
 
-#rowOne {
+#lineOne {
+    color: white;
     background-color: dodgerblue;
 }
 
-.row {
+.line {
     background-color: rgb(187, 220, 253);
+}
+
+/* Text Footer */
+
+#textFoot {
+    color: gray;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/* Img footer */
+
+#img-first {
+    position: absolute;
+}
+
+#textOne {
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+#img-second {
+    position: absolute;
+    margin-top: 150px;
+}
+
+#textTwo {
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 160px;
+
 }
