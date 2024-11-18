@@ -18,3 +18,37 @@ header {
     width: 150px;
     margin-top: 130px;
 }
+
+/* Intestazione */
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+#booleanText {
+    color: gray;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#data {
+    color: gray;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+/* Informazioni */
+
+#info {
+    margin-top: 0;
+}
+
+/* Colore Del testo 1 e 2 */
+
+.colorText {
+    background-color: yellow;
+}
