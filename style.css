@@ -52,3 +52,21 @@ a {
 .colorText {
     background-color: yellow;
 }
+
+/* Table and color fix */
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    width: 30%;
+}
+
+#rowOne {
+    background-color: dodgerblue;
+}
+
+.row {
+    background-color: rgb(187, 220, 253);
+}
