@@ -7,7 +7,14 @@ body {
 /* BACKGROUND "IMG" HEADER */
 
 header {
+    height: 180px;
     background-image: url("img/pattern.png");
-    background-size: cover;
     background-color: dodgerblue;
+}
+
+/* Logo */
+
+#logo {
+    width: 150px;
+    margin-top: 130px;
 }
