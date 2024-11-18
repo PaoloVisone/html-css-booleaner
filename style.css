@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BACKGROUND "IMG" HEADER */
+
+header {
+    background-image: url("img/pattern.png");
+    background-size: cover;
+    background-color: dodgerblue;
+}
