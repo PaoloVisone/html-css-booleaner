@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BACKGROUND "IMG" HEADER */
+
+header {
+    height: 180px;
+    background-image: url("img/pattern.png");
+    background-color: dodgerblue;
+}
+
+/* Logo */
+
+#logo {
+    width: 300px;
+    margin-top: 100px;
+}
+
+/* Intestazione */
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+#booleanText {
+    color: gray;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#data {
+    color: gray;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+
+/* Informazioni */
+
+#info {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+/* Testo e colore 1 e 2 */
+
+.text-col {
+    font-size: 25px;
+}
+
+.colorText {
+    background-color: yellow;
+}
+
+/* Lista */
+
+li {
+    font-size: 25px;
+}
+
+/* Table and color fix */
+
+table {
+    border-collapse: collapse;
+    font-size: 25px;
+}
+
+td {
+    width: 30%;
+}
+
+#lineOne {
+    color: white;
+    background-color: dodgerblue;
+}
+
+.line {
+    background-color: rgb(187, 220, 253);
+}
+
+/* Text Footer */
+
+#textFoot {
+    color: gray;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/* Img footer */
+
+#img-first {
+    position: absolute;
+}
+
+#textOne {
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+#img-second {
+    position: absolute;
+    margin-top: 150px;
+}
+
+#textTwo {
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 160px;
+
+}
